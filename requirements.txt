@@ -1,0 +1,9 @@
+#Requirements for the project
+
+pandas
+matplotlib
+seaborn
+beautifulsoup4
+requests
+textblob
+wordcloud
